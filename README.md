@@ -1,4 +1,4 @@
-# egg-task-hidden-states
+# Rethinking Design Fixation in LLMs: A Process-Based Perspective Toward Linguistic Fixation 
 
 This folder contains the final hidden-state representations for the egg-task experiment conducted for the DCC26 Conference paper. Specifically, you can access the interactive visualization of Figure 3.
 
