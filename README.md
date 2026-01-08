@@ -1,3 +1,9 @@
 # egg-task-hidden-states
 
-This folder contains the final hidden-state representations for the egg-task experiment conducted for the DCC26 paper (see Figure 3). To access an interactive visualization, download the HTML file and open it in a web browser. This README will be updated as the review process progresses.
+This folder contains the final hidden-state representations for the egg-task experiment conducted for the DCC26 paper. Specifically, you can access the interactive visualization of Figure 3.
+
+![Figure 3 – Hidden-state projections](imgs/Figure3.svg)
+
+**Fig. 3** Two-dimensional projection of the 4096-dimensional hidden states obtained using the t-SNE dimensionality reduction technique, colored according to design category (a), design fixation (b), high-level POS tags (c), and fine-grained POS tags (d).
+
+To access an interactive visualization, download the HTML file and open it in a web browser. This README will be updated as the review process progresses.
